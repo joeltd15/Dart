@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "examen.dart",
+            "program": "ejercicios/listasgenero.dart",
             "console": "terminal"
         }
     ]
